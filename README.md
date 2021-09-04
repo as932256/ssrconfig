@@ -1,4 +1,4 @@
-# ssrconfig
+# SSRConfig
 - 自用config文件
 - 管儿文件来自[Doraemoon](https://cscong.co/75.html)
 - TT文化来源[TikTok-Unlock](https://github.com/Semporia/TikTok-Unlock)
